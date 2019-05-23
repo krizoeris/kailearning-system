@@ -1,0 +1,136 @@
+/**
+	Title: E-learning System 
+	Version: 1.2
+**/
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-family: "Arial";
+	height:100%;
+	min-height: 100vh;
+	min-width: 100%;
+	background: url("../img/BG.jpg") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+/** LOGIN STYLES **/
+
+.login-container{
+	color: #f3ecec;
+	display: block;
+    max-width: 500px;
+    height: auto;
+    margin: 0 auto;
+	border: 1px solid #f3ecec;
+}
+
+.login-header{
+	margin-top: 15px;
+	text-align: center;
+}
+.login-header > h1{
+    font-size: 30px;
+	font-weight: 700;
+	
+}
+.login-content{
+    padding: 20px;
+}
+
+.login-form-group{
+	margin-top: 15px;
+}
+
+.login-footer{
+	margin-top: 15px;
+	text-align: center;
+	font-size: 13px;
+}
+
+.login-footer > a{
+	color: #fff;
+	font-weight: 700;
+}
+
+/** REGISTER STYLES **/
+
+.register-container{
+	color: #f3ecec;
+	display: block;
+    max-width: 500px;
+    height: auto;
+    margin: 0 auto;
+    border: 1px solid #f3ecec;
+}
+
+.register-header{
+	margin-top: 15px;
+    text-align: center;
+}
+.register-header > h1{
+    font-size: 30px;
+    font-weight: 700;
+}
+.register-content{
+    padding: 20px;
+}
+
+.register-form-group{
+	margin-top: 15px;
+}
+
+.register-footer{
+	margin-top: 15px;
+	text-align: center;
+	font-size: 13px;
+}
+
+.register-footer > a{
+	color: #fff;
+	font-weight: 700;
+}
+
+/** OTHER STYLES **/
+
+.form-input{
+    background-color: #fbfbfb;
+    background-image: none;
+    border: 1px solid rgba(197, 191, 191, 0.7);
+	width: 96%;
+	height: 20px;
+	font-size: .95em;
+	padding: 7px;
+}
+
+.button {
+    background-color: #4CAF50;
+	max-width: 200px;
+	width: 100%;
+    border: none;
+    color: #f3ecec;
+    padding: 10px 40px;
+    text-align: center;
+    text-decoration: none;
+	display: block;
+    font-size: 16px;
+    cursor: pointer;
+	margin: 15px auto;
+}
+.button5 {background-color: rgb(75, 75, 75); font-weight: 700;}
+
+.error {
+	color: red;
+	text-align: center;
+	width: 100%;
+}
+
+.success{
+	color: green;
+}
