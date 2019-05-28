@@ -18,7 +18,7 @@ $userName = $el->loggedIn($user, $type);
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE-edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Kailearning System</title>
+	<title>KaiLearning</title>
 	<link rel="stylesheet" type="text/css" href="../assets/styles/elearning.private.css?<?php echo time(); ?>">
 </head>
 <body>
@@ -28,7 +28,7 @@ $userName = $el->loggedIn($user, $type);
 		<!-- SIDEBAR -->
 		<div class="sidebar">
 			<div class="sidebar-header">
-				<h3>Kailearning System</h3>
+				<h3>KaiLearning</h3>
 			</div>
 			<div class="sidebar-nav">
 			<?php if($type == '0'){ ?>

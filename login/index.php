@@ -10,7 +10,7 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>E-learning System</title>
+		<title>KaiLearning</title>
 		<link rel="stylesheet" type="text/css" href="../assets/styles/elearning.public.css?<?php echo time(); ?>">
 	</head>
 	<body>
@@ -19,7 +19,7 @@
 			<div class="login-container">
 				<!-- LOGIN HEADER -->
 				<div class="login-header">
-					<span class="login-header-title"><h1>E-learning System</h1></span>
+					<span class="login-header-title"><h1>KaiLearning System</h1></span>
 				</div>
 				<!-- LOGIN CONTENT -->
 				<div class="login-content">

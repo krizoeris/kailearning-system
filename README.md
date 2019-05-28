@@ -1,4 +1,4 @@
-# Kailearning System
+# KaiLearning System
 
 ## Overview
 
