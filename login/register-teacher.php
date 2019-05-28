@@ -9,7 +9,7 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>E-Learning</title>
+		<title>Kailearning</title>
 		<link rel="stylesheet" type="text/css" href="../assets/styles/elearning.public.css?<?php echo time(); ?>">
 	</head>
 	<body>
@@ -18,7 +18,7 @@
 		<div class="register-container">
 			<!-- REGISTER HEADER -->
 			<div class="register-header">
-				<span class="register-header-title"><h1>E-learning System</h1></span>
+				<span class="register-header-title"><h1>Kailearning System</h1></span>
 				<span class="register-header-subtitle">Faculty Registration</span>
 			</div>
 			<!-- REGISTER CONTENT -->

@@ -1,8 +1,8 @@
-# E-Learning System
+# Kailearning System
 
 ## Overview
 
-E-Learning System is a web application that utilizes an online learning collaboration with students and teachers. It has a Student Module that will help the students save time to use and answer the materials that provided by the teachers. Teacher Module, which will benefit the most, because it will keep their classes organized, share material instantly, and creates automated quizzes and generate grades. Admin module will have access to all the features of the system.
+Kailearning System is an e-learning web application that utilizes an online learning collaboration with students and teachers. It has a Student Module that will help the students save time to use and answer the materials that provided by the teachers. Teacher Module, which will benefit the most, because it will keep their classes organized, share material instantly, and creates automated quizzes and generate grades. Admin module will have access to all the features of the system.
 
 ## Features
 
